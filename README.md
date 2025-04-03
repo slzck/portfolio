@@ -1,36 +1,47 @@
 # portfolio
 
-# 个人作品集 🚀
-
-## 👨‍💻 关于我
-你好，我是 **XXX**，一名前端开发工程师，擅长 Vue.js、React、JavaScript 及 Web 开发。
-
-- 💼 3 年前端开发经验
-- 🎨 熟练使用 Vue3、Vite、Element-UI、ECharts
-- 🚀 参与多个企业级管理系统、小程序开发
+# 个人部分作品集 🚀
 
 ## 🏆 代表作品
-### **1️⃣ 商家管理小程序**
+###  	店小二（商家版）小程序
 - **简介**：基于 Vue3 + uni-app + uCharts 开发，支持商家信息管理、数据统计、订单处理等功能。
 - **技术栈**：Vue3, uni-app, uCharts, Vuex
-- **代码仓库**：[GitHub](https://github.com/yourname/project1)
-- **在线预览**：[Demo](https://your-project-link.com)
 - **截图**：
   ![Project 1](https://your-image-link.com/project1.png)
 
 ---
 
-### **2️⃣ B 端管理系统**
-- **简介**：用于公司内部考勤管理，支持员工考勤、部门管理、数据分析等。
-- **技术栈**：Vue3, Vuex, Element-UI, ECharts, Axios
-- **代码仓库**：[GitHub](https://github.com/yourname/project2)
-- **在线预览**：[Demo](https://your-project-link.com)
+### 	公司官网
+- **简介**：御之安公司的官网开发。
+- **技术栈**：Vue2, Element-UI, ECharts, Axios
+- **在线预览**：[Demo](https://yuzhian.com.cn)
 - **截图**：
   ![Project 2](https://your-image-link.com/project2.png)
 
 ---
 
+### 	CTF竞赛平台C端
+
+- **简介**：CTF竞赛平台，包含了前台和后台的页面。
+- **技术栈**：Vue2, nuxt,Element-UI, ECharts, Axios
+- **截图**：
+  ![Project 2](https://your-image-link.com/project2.png)
+
+------
+
+### 	CTF竞赛平台B端
+
+- **简介**：CTF竞赛平台，包含了前台和后台的页面。
+- **技术栈**：Vue2, Vuex, Element-UI, ECharts, Axios
+- **截图**：
+  ![Project 2](https://your-image-link.com/project2.png)
+
+------
+
+
+
 ## 🛠 技术栈
+
 - **前端框架**：Vue3, React, Nuxt.js, Next.js
 - **UI 框架**：Element-UI, Ant Design, TailwindCSS
 - **数据可视化**：ECharts, D3.js
